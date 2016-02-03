@@ -1,0 +1,12 @@
+*************************************************************************************
+Pages with page rank less than initial values: 144497
+Proportion of pages with page rank less than initial values: 0.78611726175256105456147891040253
+
+
+*************************************************************************************
+Number of pages with no outlinks: 66175
+Proportion of number of pages with no outlinks: 0.36001653872727965138103813155905
+
+*************************************************************************************
+Number of pages with no in-links: 14350
+Proportion of number of pages with no in-links: 0.07806932120493332825565390537019

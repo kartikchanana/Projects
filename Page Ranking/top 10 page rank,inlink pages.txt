@@ -1,0 +1,42 @@
+************************************************************************************************************************
+top 10 ranked pages
+
+WT21-B37-76=0.0026793608,
+WT24-B26-46=0.001085022, 
+WT13-B06-284=0.0011247458, 
+WT08-B18-400=0.0011435199, 
+WT23-B37-134=0.0012052022, 
+WT23-B39-340=0.0012404169, 
+WT24-B40-171=0.0012450012, 
+WT23-B21-53=0.0013723035, 
+WT25-B39-116=0.001469477, 
+WT21-B37-75=0.0015258876 
+
+************************************************************************************************************************
+top 10 in link count pages
+WT21-B37-76=2568
+WT18-B29-37=2269, 
+WT01-B18-225=2260,
+WT23-B27-29=1940, 
+WT21-B37-75=1704,
+WT27-B32-30=1255, 
+WT27-B34-57=1257, 
+WT08-B19-222=1041, 
+WT08-B18-400=1011,
+WT10-B36-88=946, 
+
+************************************************************************************************************************
+These pages have higher page ranks/in-links than the others because of the folowing reasons:
+* They are the home page of a important company,person etc.
+* They are linked to by a lot of pages(Copyright,disclaimer information).
+* They are a central place for large amount of information(News page).
+* Contain information about important people(Managers/Directors and lower hierarchy of a company/university etc.).
+
+There are pages such as Copyright,General disclaimer page that are not important to the user, 
+but still have a higher page rank because they are linked to by many pages. A web site and all the subsites for it
+will have a link to it. Some more like WWWBoard FAQ have high inlinks,but probabaly unimportant pages link to it or 
+maybe FAQ for WWWBoard are not important to the query. Another page-Skeptics Society Message Board has very high inlinks 
+because lots of people post to it and make inlinks to it, but for a query this might not be the best match as an answer as
+they contain messages. 
+On the other hand pages like evening news page, company names list page will be the ones that a user would actulaly 
+like to come up when he feeds in a query, which is why they have higher page rank.

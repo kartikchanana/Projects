@@ -1,0 +1,772 @@
+Enter the search query (q=quit):
+code optimization for space efficiency
+Found 100 hits.
+1. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-1795.html score=0.64332205
+Snippet: Optimal Code for Serial and Parallel Computation
+
+CACM December, 1969
+
+Fateman, R. J.
+
+code optimization, sequencing of operations,
+detection of common subexpressions
+
+4.12
+
+CA691217 JB February 15, 1
+2. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2495.html score=0.5975083
+Snippet: Adapting Optimal Code Generation for Arithmetic
+Expressions to the Instruction Sets Available 
+on Present-Day Computers
+
+CACM June, 1973
+
+Stockhausen, P. F.
+
+arithmetic expressions, code generation, c
+3. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-1947.html score=0.5535952
+Snippet: Object code Optimization
+
+Methods of analyzing the control flow and data
+flow of programs during compilation are applied 
+to transforming the program to improve object time efficiency.
+ Dominance rela
+4. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2748.html score=0.528035
+Snippet: Indirect Threaded Code
+
+An efficient arrangement for interpretive code
+is described.  It is related to Bell's notion 
+of threaded code but requires less space and is more
+amenable to machine independe
+5. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2559.html score=0.4950907
+Snippet: The Reallocation of Hash-Coded Tables
+
+When the space allocation for a hash-coded table
+is altered, the table entries must be rescattered 
+over the new space.  A technique for accomplishing
+this resca
+6. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-1886.html score=0.44647112
+Snippet: Generation of Optimal Code for Expressions via Factorization
+
+Given a set of expressions which are to be
+compiled, methods are presented for increasing the 
+efficiency of the object code produced by f
+7. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2897.html score=0.43843484
+Snippet: A Case Study of a New Code Generation Technique for Compilers
+
+Recent developments in optimizing techniques
+have allowed a new design for compilers to emerge. 
+ Such a compiler translates the parsed s
+8. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2904.html score=0.38659886
+Snippet: An Algorithm for Reduction of Operator Strength
+
+A simple algorithm which uses an indexed temporary
+table to perform reduction of operator strength 
+in strongly connected regions is presented.  Severa
+9. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-3080.html score=0.38377044
+Snippet: Proving the Correctness of Heuristically Optimized Code 
+
+A system for proving that programs written
+in a high level language are correctly translated 
+to a low level language is described.  A primary
+10. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2491.html score=0.37791464
+Snippet: Threaded Code
+
+The concept of "threaded code" is presented as
+an alternative to machine language code.  Hardware 
+and software realizations of it are given.  In software
+it is realized as interpretive
+11. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2680.html score=0.3617208
+Snippet: Optimal Space Allocation on Disk Storage Devices
+
+When the amount of space required for file storage
+exceeds the amount which can be kept on-line, 
+decisions must be made as to which files are to be p
+12. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2537.html score=0.3568571
+Snippet: Common Phrases and Minimum-Space Text Storage
+
+A method for saving storage space for text
+strings, such as compiler diagnostic messages, is 
+described.  The method relies on hand selection of a
+set of
+13. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-3171.html score=0.34712863
+Snippet: Line Numbers Made Cheap
+
+A technique is described for run-time line number administration
+to be used for implementations of high level languages.  Under suitable
+circumstances, this method requires ab
+14. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2464.html score=0.3463252
+Snippet: The Complex Method for Constrained Optimization [E4] (Algorithm A454)
+
+CACM August, 1973
+
+Richardson, J. A.
+Kuester, J. L.
+
+optimization, constrained optimization, Box's algorithm
+
+5.41
+
+CA730810 JB J
+15. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-1195.html score=0.33868977
+Snippet: UPLIFTS-University of Pittsburgh Linear File Tandem System
+
+A series of computer programs has been developed
+and is now operational for processing the 
+National Aeronautics and Space Administration li
+16. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2253.html score=0.32735753
+Snippet: Index Ranges for Matrix Calculi
+
+The paper describes a scheme for symbolic
+manipulation of index expressions which arise as 
+a by-product of the symbolic manipulation of expressions
+in the matrix calc
+17. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2944.html score=0.3262091
+Snippet: Shifting Garbage Collection Overhead to Compile Time
+
+This paper discusses techniques which enable automatic
+storage reclamation overhead to be partially 
+shifted to compile time.  The paper assumes a
+18. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2929.html score=0.31939238
+Snippet: An Analysis of Inline Substitution for a Structured Programming Language
+
+An optimization technique known as inline substitution
+is analyzed.  The optimization consists 
+of replacing a procedure invoc
+19. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-1655.html score=0.30841085
+Snippet: Code Extension Procedures for Information
+Interchange* (Proposed USA Standard)
+
+CACM December, 1968
+
+standard code, code, information interchange, characters,
+shift out, shift in, escape, data link 
+e
+20. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2716.html score=0.28945735
+Snippet: Optimizing the Performance of a Relational Algebra Database Interface
+
+An approach for implementing a "smart" interface
+to support a relational view of data is proposed. 
+ The basic idea is to employ 
+21. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-1564.html score=0.2743894
+Snippet: Description of Basic Algorithm in DETAB/65 Preprocessor
+
+The basic algorithm for the conversion of decision
+tables into COBOL code is contained in the
+generator portion of the DETAB/65 preprocessor.  
+22. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2423.html score=0.2743894
+Snippet: A Parser-Generating System for Constructing Compressed Compilers
+
+This paper describes a parser-generating system
+(PGS) currently in use on the CDC-6500 computer 
+at Purdue University.  The PGS is a F
+23. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2374.html score=0.27298835
+Snippet: A Study of Storage Partitioning Using a Mathematical Model of Locality
+
+Both fixed and dynamic storage partitioning
+procedures are examined for use in multiprogramming 
+systems.  The storage requireme
+24. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-3005.html score=0.26183242
+Snippet: Implications of Structured Programming for Machine Architecture
+
+Based on an empirical study of more than 10,000
+lines of program text written in a GOTO-less 
+language, a machine architecture specific
+25. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2033.html score=0.26124457
+Snippet: Space/Time Trade-offs in Hash Coding with Allowable Errors
+
+In this paper trade-offs among certain computational factors
+a given set of messages.  Two new hash-coding methods are examined
+and compared
+26. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-1651.html score=0.24911706
+Snippet: An Interpretive Input Routine for Linear Programming
+
+In this descriptive article an input code
+is presented which greatly simplifies data input 
+to any linear programming solution routine, for subseq
+27. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2611.html score=0.24534898
+Snippet: The Complex Method for Constrained Optimization (Algorithm R454)
+
+CACM August, 1974
+
+Shere, K. D.
+
+CA740813 JB January 17, 1978  9:28 AM
+
+2611	5	2611
+2611	5	2611
+2611	5	2611
+28. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2858.html score=0.24334013
+Snippet: A Process for the Determination of
+Addresses in Variable Length Addressing
+
+An algorithm is presented for the assignment
+of instruction addresses and formats under the 
+following conditions: (1) the l
+29. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-3053.html score=0.24334013
+Snippet: Packed Scatter Tables
+
+Scatter tables for open addressing benefit
+from recursive entry displacements, cutoffs for 
+unsuccessful searches, and auxiliary cost functions.  Compared
+with conventional meth
+30. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-3054.html score=0.24068223
+Snippet: Implementing Quicksort Programs
+
+This paper is a practical study of how to
+implement the Quicksort sorting algorithm and its 
+best variants on real computers, including how to apply
+various code optim
+31. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-0267.html score=0.24038294
+Snippet: Some Proposals for Improving the Efficiency of ALGOL 60
+
+CACM November, 1961
+
+Wilkes, M. V.
+
+CA611101 JB March 15,1978  11:01 PM
+
+267	4	267
+1139	4	267
+1141	4	267
+1215	4	267
+1223	4	267
+1647	4	267
+1781	
+32. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-0230.html score=0.23872676
+Snippet: A Proposal for Character Code Compatibility
+
+CACM February, 1960
+
+Bemer, R. W.
+
+CA600202 JB March 22, 1978  2:25 PM
+
+230	5	230
+230	5	230
+230	5	230
+333	5	230
+230	6	230
+33. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-0797.html score=0.23872676
+Snippet: American Standard Code for Information Interchange
+
+CACM August, 1963
+
+CA630801 JB March 13, 1978  8:55 PM
+
+1084	5	797
+797	5	797
+797	5	797
+797	5	797
+868	6	797
+603	6	797
+644	6	797
+669	6	797
+791	6	797
+7
+34. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-1064.html score=0.23872676
+Snippet: Perforated Tape Code for Information
+Interchange (Proposed American Standard)
+
+CACM June, 1964
+
+CA640603 JB March 9, 1978  9:46 PM
+
+1064	5	1064
+1064	5	1064
+1064	5	1064
+35. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-1289.html score=0.23872676
+Snippet: Proposed Revised American Standard Code for Information Interchange
+
+CACM April, 1965
+
+CA650402 JB March 7, 1978  4:03 PM
+
+1289	5	1289
+1289	5	1289
+1289	5	1289
+36. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2856.html score=0.23869252
+Snippet: The Synthetic Approach to Decision Table Conversion
+
+Previous approaches to the problem of automatically
+converting decision tables to computer 
+programs have been based on decomposition.  At any
+stag
+37. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2433.html score=0.23437612
+Snippet: Control Structures in Illiac IV Fortran
+
+As part of an effort to design and implement
+a Fortran compiler on the ILLIAC IV, an extended 
+Fortran, called IVTRAN, has been developed.  This language
+provi
+38. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-1234.html score=0.23171572
+Snippet: The Structure of Yet Another ALGOL Compiler
+
+A high-speed "top down" method of syntax analysis
+which completely eliminates "back-up" of 
+the source string has been implemented in a convenient
+macro-la
+39. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2701.html score=0.22340249
+Snippet: A Fast and Usually Linear Algorithm for Global
+Flow Analysis (Abstract only--Complete paper JACM 
+23,1 January, 1976)
+
+A new algorithm for global flow analysis on
+reducible graphs is presented. The al
+40. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-1901.html score=0.22280307
+Snippet: Dynamic Space-Sharing in Computer Systems
+
+A formalization of relationships between space-shading
+program behavior, and processor efficiency 
+in computer systems is presented.  Concepts of value and
+c
+41. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-0066.html score=0.22071782
+Snippet: A Proposal for a Generalized Card Code for 256 Characters
+
+CACM September, 1959
+
+Bemer, R. W.
+
+CA590903 JB March 22, 1978  4:50 PM
+
+66	5	66
+66	5	66
+66	5	66
+42. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-1757.html score=0.21100664
+Snippet: Data Code for Calendar Date for Machine-to-Machine
+Data Interchange* (Proposed USA Standard)
+
+CACM April, 1968
+
+USA Standard, data code, calendar date, machine-to-machine
+data interchange, recording c
+43. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-1542.html score=0.2106169
+Snippet: A Microprogrammed Implementation of EULER on IBM System/360 Model 30
+
+An experimental processing system for the algorithmic
+language EULER has been implemented in 
+microprogramming on an IBM System/36
+44. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2133.html score=0.21029912
+Snippet: Algorithm for the Assignment Problem
+(Rectangular Matrices) [H] (Algorithm 415)
+
+CACM December, 1971
+
+Bourgeois, F.
+Lassalle, J. C.
+
+operations research, optimization theory,
+assignment problem, recta
+45. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-1275.html score=0.20888591
+Snippet: Code Structures for Protection and Manipulation
+of Variable Length Items (Corrigendum)
+
+CACM April, 1965
+
+Ramamoorthy, C. V.
+
+CA650416 JB March 7, 1978  3:31 PM
+
+1275	5	1275
+1275	5	1275
+1275	5	1275
+46. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-1414.html score=0.20888591
+Snippet: Twelve-Row Punched-Card Code for Information
+Interchange* (Proposed American Standard)
+
+CACM June, 1966
+
+CA660607 JB March 3, 1978  8:39 AM
+
+1414	5	1414
+1414	5	1414
+1414	5	1414
+47. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2835.html score=0.20701885
+Snippet: Recursion Analysis for Compiler Optimization
+
+A relatively simple method for the detection
+of recursive use of procedures is presented for 
+use in compiler optimization.  Implementation considerations
+48. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-0149.html score=0.20604253
+Snippet: A Decision Rule for Improved Efficiency in Solving
+Linear Programming Problems with the Simplex 
+Algorithm
+
+CACM September, 1960
+
+Dickson, J. C.
+Frederick, F. P.
+
+CA600908 JB March 20, 1978  8:43 PM
+
+
+49. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-1670.html score=0.20255528
+Snippet: Correspondences of 8-Bit and Hollerith Codes for
+Computer Environments (A USASI Tutorial Standard)
+
+CACM November, 1968
+
+USA standard, card code, punched card, punched card
+code, hole-patterns, hole-p
+50. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-1992.html score=0.20255528
+Snippet: Comment on Bell's Quadratic Quotient Method for Hash Code Searching
+
+CACM September, 1970
+
+Lamport, L.
+
+hashing, hash code, scatter storage, calculated address,
+clustering, search, symbol table, keys,
+51. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2722.html score=0.19925252
+Snippet: Multidimensional Binary Search Trees Used for Associative Searching
+
+This paper develops the multidimensional binary
+search tree (or k-d tree, where k is the dimensionality 
+of the search space) as a 
+52. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2745.html score=0.19869836
+Snippet: A Linear Space Algorithm for Computing Maximal Common Subsequences
+
+The problem of finding a longest common subsequence
+of two strings has been solved in quadratic 
+time and space.  An algorithm is pr
+53. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2734.html score=0.19712423
+Snippet: On the External Storage Fragmentation Produced
+by First-Fit and Best-Fit Allocation Strategies
+
+Published comparisons of the external fragmentation
+produced by first-fit and best-fit memory 
+allocatio
+54. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2530.html score=0.18242602
+Snippet: An Algorithm for Extracting Phrases in
+a Space-Optimal Fashion [Z] (Algorithm A444)
+
+CACM March, 1973
+
+Wagner, R. A.
+
+information retrieval, coding, text compression
+
+3.70 5.6
+
+CA730309 JB January 24,
+55. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-3129.html score=0.17914577
+Snippet: Optimal Storage Allocation for Serial Files
+
+A computer system uses several serial files.  The files reside on a 
+direct-access storage device in which storage space is limited.  Records are 
+added to
+56. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-1065.html score=0.17904507
+Snippet: Bit Sequencing of the American Standard Code for
+Information Interchange (ASCII) in Serial-by-Bit 
+Data Transmission (Proposed American Standard)
+
+CACM June, 1964
+
+CA640602 JB March 9, 1978  9:47 PM
+
+
+57. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2586.html score=0.17904507
+Snippet: Adapting Optimal Code Generation for Arithmetic
+Expressions to the Instruction Sets Available 
+on Present-Day Computers (Errata)
+
+CACM October, 1974
+
+Stockhausen, P. F.
+
+CA741012 JB January 16, 1978  
+58. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-0048.html score=0.17705749
+Snippet: Shift-Register Code for Indexing Applications
+
+In this communication the use of a shift-register
+code with n = 10 is described for calling 
+64 wireless telemetering stations in a fixed cyclical order.
+59. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-1362.html score=0.17705749
+Snippet: Code Extension in ASCII* (An ASA Tutorial)
+
+The American Standard Code for Information
+Interchange (ASCII) contains a number of control 
+characters associated with the principle of code extension,
+tha
+60. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2711.html score=0.1756262
+Snippet: A Vector Space Model for Automatic Indexing
+
+In a document retrieval, or other pattern matching
+environment where stored entities (documents) 
+are compared with each other or with incoming patterns
+(s
+61. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2078.html score=0.1752548
+Snippet: Representations for Space Planning
+
+Problems involving the arrangement of objects in two- 
+or three-space where the objective function primarily consists
+of derivatives of the distance between objects
+62. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-1807.html score=0.17389299
+Snippet: Optimization of Expressions in Fortran
+
+A method of optimizing the computation of
+arithmetic and indexing expressions of a Fortran 
+program is presented.  The method is based on a linear
+analysis of t
+63. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-1223.html score=0.16849889
+Snippet: High Speed Compilation of Efficient Object Code
+
+A three-pass compiler with the following properties
+is briefly described:  The last two passes 
+scan an intermediate language produced by the preceding
+64. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-1235.html score=0.16849351
+Snippet: A Stochastic Approach to the Grammatical Coding of English
+
+A computer program is described which will
+assign each word in an English text to its form 
+class or part of speech.  The program operates a
+65. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-3083.html score=0.16805974
+Snippet: Pseudochaining in Hash Tables
+
+This paper presents pseudochaining as a new
+collision-resolution method.  Pseudochaining is 
+half way between open addressing and chaining.  It owes
+its name to the fact
+66. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-1369.html score=0.16523181
+Snippet: Half Rotations in N-Dimensional Euclidean Space
+
+An iterative procedure is described for determining
+half rotations in n-dimensional Euclidean 
+space. The method is a variant of the cyclic Jacobi
+proc
+67. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-1204.html score=0.15765558
+Snippet: Character Structure and Character Parity Sense for
+Serial-by-Bit Data Communication in the American 
+Standard Code for Information Interchange (Proposed American Standard)
+
+CACM September, 1965
+
+CA650
+68. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2645.html score=0.15531684
+Snippet: Two Languages for Estimating Program Efficiency
+
+Two languages enabling their users to estimate
+the efficiency of computer programs are presented. 
+ The program whose efficiency one wishes to estimate
+69. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2892.html score=0.15143192
+Snippet: A Study of Line Overhead in the Arpanet
+
+The form, extent, and effect of the communication line
+overhead in the ARPANET are considered. 
+ The source of this over head is separated into various
+levels 
+70. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-1708.html score=0.14958504
+Snippet: A Note on the Efficiency of a LISP Computation in a Paged Machine
+
+The problem of the use of two levels of storage
+for programs is explored in the context of 
+a LISP system which uses core memory as a
+71. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-0093.html score=0.14920424
+Snippet: From Formulas to Computer Oriented Language
+
+A technique is shown for enabling a computer
+to translate simple algebraic formulas into a 
+three address computer code.
+
+CACM March, 1959
+
+Wegstein, J. H.
+72. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2389.html score=0.14902377
+Snippet: Preliminary Report on a System for General Space Planning
+
+A computer language and a set of programs within
+that language are described which allow the 
+formulating and solving of a class of space pla
+73. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2863.html score=0.14902377
+Snippet: VMIN-An Optimal Variable-Space Page Replacement Algorithm
+
+A criterion for comparing variable space page
+replacement algorithms is presented.  An optimum 
+page replacement algorithm, called VMIN, is d
+74. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-1652.html score=0.14447135
+Snippet: A Code for Non-numeric Information Processing
+Applications in Online Systems
+
+A code has been specifically designed to simplify
+the internal information processing operations 
+within an online compute
+75. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-1676.html score=0.14430216
+Snippet: The LRLTRAN Compiler
+
+Extensive software problems confront an organization
+which possesses a number of different 
+computers and which frequently acquires new ones. 
+To maintain cohesion, a system must
+76. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2836.html score=0.14363311
+Snippet: Weighted Derivation Trees
+
+The nodes of a weighted derivation tree are associated
+with weighting functions over the vocabulary 
+of a context-free grammar.  An algorithm is presented
+for constructing t
+77. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2524.html score=0.1414585
+Snippet: Some Approaches to Best-Match File Searching
+
+The problem of searching the set of keys in
+a file to find a key which is closest to a given 
+query key is discussed.  After "closest," in terms of
+a metr
+78. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-1465.html score=0.14062326
+Snippet: Program Translation Viewed as a General Data Processing Problem
+
+Efficiency dictates that the overall effectiveness
+of a compiler be increased by all means 
+available.  For a compiler to have a substa
+79. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2126.html score=0.13736169
+Snippet: Experience with an Extensible Language
+
+An operational extensible language system is described.
+The system and its base language are appraised with 
+respect to efficiency, flexibility, and utility
+for
+80. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-1523.html score=0.13666514
+Snippet: SHARER, a Time Sharing System for the CDC 6600
+
+A time sharing system embedded within the
+standard batch processing system for the CDC 6600 
+is described.  The system is general purpose and file-based
+81. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2230.html score=0.13616589
+Snippet: A Language for Treating Geometric Patterns in a Two-dimensional space
+
+In this paper CADEP, a problem-oriented language
+for positioning geometric patterns in a two-dimensional 
+space, is presented.  A
+82. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-1331.html score=0.13049494
+Snippet: Code Structures for Protection and Manipulation of Variable-Length Items
+
+When items are made up of a variable number
+of characters, each containing the same number 
+of bits, certain control informati
+83. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2498.html score=0.12899466
+Snippet: Minimizing Wasted Space in Partitioned Segmentation
+
+A paged virtual memory system using a finite
+number of page sizes is considered.  Two algorithms 
+for assigning pages to segments are discussed.  B
+84. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-0794.html score=0.12837844
+Snippet: A List-Type Storage Technique for Alphameric Information
+
+A method which is economic in terms of space and
+time is proposed for the storage and manipulation 
+of character strings of arbitrary length i
+85. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2344.html score=0.12832725
+Snippet: On the Optimization of Performance of Time-Sharing Systems by Simulation
+
+A simulation model of a time-sharing system
+with a finite noncontiguous store and an infinite 
+auxiliary store is used to stud
+86. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2950.html score=0.12738775
+Snippet: A Unifying Approach to Scheduling
+
+This paper presents a scheme for classifying
+scheduling algorithms based on an abstract model 
+of a scheduling system which formalizes the notion of
+priority.  Vario
+87. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-0124.html score=0.12612447
+Snippet: An Algorithm for the Assignment Problem
+
+The assignment problem is formulated and briefly
+discussed.  An efficient algorithm for its 
+solution is presented in ALGOL code.  An empirical relation
+betwee
+88. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-1551.html score=0.12612447
+Snippet: On Compiling Algorithms for Arithmetic Expressions
+
+This paper deals with algorithms concerning arithmetic
+expressions used in a FORTRAN IV compiler 
+for a HITAC-5020 computer having n accumulators.  
+89. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-1270.html score=0.12610742
+Snippet: On ALGOL Education: Automatic Grading Programs
+
+Two ALGOL grader programs are presented for
+the computer evaluation of student ALGOL programs. 
+One is for a beginner's program; it furnishes random dat
+90. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-1352.html score=0.12610742
+Snippet: Automatic Integration of a Function with a Parameter
+
+Two efficient methods for automatic numerical
+integration are Romberg integration and adaptive 
+Simpson integration.  For integrands of the form f
+91. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-1429.html score=0.12610742
+Snippet: Matrix Reduction Using the Hungarian Method
+For The Generation of School Timetables
+
+The application of Kuhn's Hungarian Method
+to the problem of matrix reduction as needed in 
+Gotlieb's method for ti
+92. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2365.html score=0.12610742
+Snippet: Matrix Computations with Fortran and Paging
+
+The efficiency of conventional Fortran programs
+for matrix computations can often be improved 
+by reversing the order of nested loops.  Such modifications
+
+93. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2816.html score=0.12418647
+Snippet: Optimal Reorganization of Distributed Space Disk Files
+
+In most database organizations, the cost of accessing
+the database will increase due to structural 
+changes caused by updates and insertions.  B
+94. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-2249.html score=0.12392385
+Snippet: A Comparison of Multivariate Normal Generators
+
+Three methods for generating outcomes on multivariate
+normal random vectors with a specified 
+variance-covariance matrix are presented.  A comparison
+is
+95. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-1030.html score=0.1231686
+Snippet: Techniques for the Simulation of Computer Logic
+
+The simulation of a digital computer is an
+integral part of most computer design automation 
+systems.  The evaluation of the Boolean functions which
+ch
+96. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-0693.html score=0.12267449
+Snippet: An Extension of Fibonaccian Search To Several Variables
+
+A technique which uses Fibonaccian search
+concepts has been developed to solve optimization 
+problems involving unimodal functions of several v
+97. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-1786.html score=0.121533155
+Snippet: An Improved Hash Code for Scatter Storage
+
+Introduced is a hash coding method based on
+fixed-point division rather than multiplication 
+or logical operations.  This new method allows the
+hash table to
+98. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-3175.html score=0.121533155
+Snippet: Breaking Substitution Ciphers Using a Relaxation Algorithm
+
+Substitution ciphers are codes in which each letter
+of the alphabet has one fixed substitute, and the word divisions 
+do not change.  In thi
+99. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-3064.html score=0.12141173
+Snippet: Event Manipulation for Discrete Simulations
+Requiring Large Numbers of Events
+
+The event-manipulation system presented here consists of
+two major parts.  The first part addresses 
+the familiar problem
+100. C:\Users\Kartik\Documents\NetBeansProjects\Lucene\lucene\CACM-0164.html score=0.12103897
+Snippet: A Short Study of Notation Efficiency
+
+CACM August, 1960
+
+Smith Jr., H. J.
+
+CA600802 JB March 20, 1978  9:02 PM
+
+205	4	164
+210	4	164
+214	4	164
+1982	4	164
+398	4	164
+642	4	164
+669	4	164
+100	4	164
+123	4	1
