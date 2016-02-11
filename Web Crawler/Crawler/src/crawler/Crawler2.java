@@ -49,7 +49,7 @@ public class Crawler2
                     posturl= attain1.substring(29, attain1.length());//29 letters contain the wikipedia page base URL
                     int posturlindexcolon=posturl.indexOf(":");
                     //Validations
-                    if(link.absUrl("href").contains("http://en.wikipedia.org/wiki/") || link.absUrl("href").contains("https://en.wikipedia.org/wiki/") && posturlindexcolon<=0 && !link.absUrl("href").contains("http://en.wikipedia.org/wiki/Main_Page") && !link.absUrl("href").contains("https://en.wikipedia.org/wiki/Main_Page"))
+                    if(link.absUrl("href").contains("http://en.wikipedia.org/wiki/") || link.absUrl("href").contains("https://en.wikipedia.org/wiki/") && posturlindexcolon<=0 && !link.absUrl("href").contains("http://en.wikipedia.org/wiki/Main_Page") && !link.absUrl("href").contains("https://en.wikipedia.org/wiki/Main_Page" && !link.absUrl("href").contains("#"))
                     {
                         this.links.add(link.absUrl("href"));
                     }

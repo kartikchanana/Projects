@@ -1,10 +1,13 @@
 ***************************README***************************
 
-*The PAGE RANKING ALGORITHMS have been created in netbeans 7.2, and hence I would advise compiling it through Netbeans.
-*No external library has been used.
-*The code can be compiled by Java version 7 & and above.
+* This project is a replica of a page ranking algorithm used by most web crawlers as a basic functionality.
+* The value of page rank is calculated iteratively by considering inlinks,outlinks, and sink nodes for every page in the hierarchy.
+* Pages with higher inlink count are not certainly important pages as the content on the page also matters, 
+* The PAGE RANKING ALGORITHM has been created in netbeans 7.2, and hence I would advise compiling it through Netbeans.
+* No external library has been used.
+* The code can be compiled by Java version 7 & and above.
 * I have provided two seperate codes for the page rank and the perplexity values calculation.
-*There following is the description of the files included in the zip file:
+* There following is the description of the files included in the zip file:
     
     -'top 10 page rank,inlink pages.txt'     : Includes 10 pages with highest page rank & inlink values, & the ANALYSIS for the page rank values obtained.
     -'Top 50 ranked, inlink count pages.txt' : Includes 50 pages with highest page rank & inlink values
@@ -24,4 +27,3 @@
     -'Page rank 183811.txt'-Includes page rank values for all the pages in the inlinks file provided.
     -'wt2g_inlinks.txt'-Includes the inlinks to run the code.
     -'PAGE RANK-sample.docx'- Includes the page ranks for sample graph after 1,10 and 100 iterations respectively.
-    -'Readme.txt'-Includes instructions to run the code.
